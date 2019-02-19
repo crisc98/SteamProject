@@ -32,789 +32,791 @@
 "../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/MainMenu/MainMenu.uasset" 31
 "../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/MainMenu/ServerMenu.uasset" 32
 "../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/AllLevels/GameInfoInstance.uasset" 33
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_Barbarous_D.uasset" 34
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_Barbarous_MetalMask.uasset" 35
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_Barbarous_N.uasset" 36
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/M_Char_Barbrous.uasset" 37
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.uasset" 38
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Barberous.uasset" 39
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Death.uasset" 40
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Fall_Loop.uasset" 41
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Land.uasset" 42
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Start.uasset" 43
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Idle.uasset" 44
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Run.uasset" 45
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Walk.uasset" 46
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_IdleRun_2D.uasset" 47
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSwordAnimBP.uasset" 48
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack01.uasset" 49
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/AnimNotifies/AttackNotifyWindow.uasset" 50
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack01_Montage.uasset" 51
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack02.uasset" 52
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack02_Montage.uasset" 53
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack03.uasset" 54
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack03_Montage.uasset" 55
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack04.uasset" 56
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack04_Montage.uasset" 57
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack05.uasset" 58
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack05_Montage.uasset" 59
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack06.uasset" 60
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack06_Montage.uasset" 61
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack07.uasset" 62
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack07_Montage.uasset" 63
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack08.uasset" 64
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack08_Montage.uasset" 65
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack09.uasset" 66
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack09_Montage.uasset" 67
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack11.uasset" 68
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack11_Montage.uasset" 69
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Back.uasset" 70
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Front.uasset" 71
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Left.uasset" 72
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Right.uasset" 73
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/HitReaction_1D.uasset" 74
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/AI_BaseAnimBP.uasset" 75
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/StandardAI_BB.uasset" 76
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/AttackPawn_BTTask.uasset" 77
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/GetClosestPawn_BTTask.uasset" 78
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/IsInAttackDistance.uasset" 79
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/IsNotDead.uasset" 80
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/TargetIsNotDead.uasset" 81
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/StandardAI_BT.uasset" 82
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/AI_Controller_BP.uasset" 83
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/HitCameraShake.uasset" 84
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/EnemyHealthWB.uasset" 85
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_D.uasset" 86
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_M.uasset" 87
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_N.uasset" 88
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/M_CharM_Base.uasset" 89
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset" 90
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/AI_Base.uasset" 91
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/M_NormalSwordTrail.uasset" 92
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Normal_Sword_Trail.uasset" 93
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/Splatters_T.uasset" 94
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/M_Splatters.uasset" 95
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Splatters.uasset" 96
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 97
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 98
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 99
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 100
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 101
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Wall_Hit_Sparks.uasset" 102
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Weapon/M_Defuse.uasset" 103
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Weapon/TwinSword.uasset" 104
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Gameplay/TwinSword_BP.uasset" 105
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_FrostGiant/T_Char_M_FrostGiant_N.uasset" 106
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_FrostGiant/M_Char_FrostGiant.uasset" 107
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_FrostGiant.uasset" 108
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/M_RageSwordTrail.uasset" 109
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Rage_Sword_Trail.uasset" 110
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/forsty_e_img.uasset" 111
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/frosty_q_img.uasset" 112
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/kills_img.uasset" 113
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/KillsDisplay.uasset" 114
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/timer_icon.uasset" 115
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/TimerWB.uasset" 116
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/PlayerHUD.uasset" 117
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Frosty.uasset" 118
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_Natural_D.uasset" 119
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_Natural_Mask.uasset" 120
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_Natural_N.uasset" 121
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/M_Char_Natural.uasset" 122
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Natural.uasset" 123
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Natural.uasset" 124
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit_D.uasset" 125
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit_Mask.uasset" 126
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit_N.uasset" 127
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/M_Char_Pit.uasset" 128
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Pit.uasset" 129
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Pit.uasset" 130
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Robo/T_CharM_Robo_Mask.uasset" 131
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Robo/T_CharM_Robo_N.uasset" 132
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Robo/M_Char_Robo.uasset" 133
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Robo.uasset" 134
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Robo.uasset" 135
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_D.uasset" 136
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_E.uasset" 137
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_Mask.uasset" 138
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_N.uasset" 139
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/M_Char_Tusk.uasset" 140
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Tusk.uasset" 141
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Tusk.uasset" 142
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_JewelMask.uasset" 143
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_N.uasset" 144
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_WarriorB_D.uasset" 145
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_WarriorB_Mask.uasset" 146
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/M_Char_Warrior_B.uasset" 147
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Warrior.uasset" 148
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Warrior.uasset" 149
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/barberous.uasset" 150
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/forge.uasset" 151
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/frosty.uasset" 152
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/natural.uasset" 153
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/pit.uasset" 154
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/robo.uasset" 155
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/tusk.uasset" 156
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/warrior.uasset" 157
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/CharacterSelect.uasset" 158
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/ConnectedPlayer.uasset" 159
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/arena01.uasset" 160
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/arena02.uasset" 161
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/PlayerButton.uasset" 162
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset" 163
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset" 164
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Lobby/LobbyGM.uasset" 165
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Lobby/LobbyPC.uasset" 166
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/ChatText.uasset" 167
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/ChatWindow.uasset" 168
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/GameplayChat.uasset" 169
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/EscapeMenu.uasset" 170
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/GameOverWB.uasset" 171
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/WatingForRevive.uasset" 172
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Gameplay/GameplayPC.uasset" 173
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Gameplay/GameplayGM.uasset" 174
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset" 175
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Forge/CharM_Forge_D.uasset" 176
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Forge/CharM_Forge_N.uasset" 177
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Forge/M_Char_Forge.uasset" 178
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Forge.uasset" 179
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Forge.uasset" 180
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack10.uasset" 181
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12.uasset" 182
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12_End.uasset" 183
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12_Loop.uasset" 184
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12_Start.uasset" 185
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Combo01_Montage.uasset" 186
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Dash01.uasset" 187
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Falldown_End.uasset" 188
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Falldown_Loop.uasset" 189
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Falldown_Start.uasset" 190
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Front_Montage.uasset" 191
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Idle_General.uasset" 192
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Fall.uasset" 193
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_D.uasset" 194
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_MetalMask1.uasset" 195
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_N.uasset" 196
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/M_CharM_Bladed.uasset" 197
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Bladed.uasset" 198
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/Char_M_Cardboard_D.uasset" 199
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/Char_M_Cardboard_N.uasset" 200
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/Char_M_Cardboard_Skin_Mask.uasset" 201
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/M_Char_Cardboard.uasset" 202
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.uasset" 203
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/T_CharM_Golden_D.uasset" 204
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/T_CharM_Golden_Mask.uasset" 205
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/T_CharM_Golden_N.uasset" 206
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/M_Char_Golden.uasset" 207
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Golden.uasset" 208
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_D.uasset" 209
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_Elite_Mask.uasset" 210
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_N.uasset" 211
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/M_Char_Ragged.uasset" 212
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Ragged0.uasset" 213
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_Elite.uasset" 214
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/M_Char_RaggedElite.uasset" 215
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_RaggedElite.uasset" 216
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/LowResBlurredNoise.uasset" 217
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_B_D.uasset" 218
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_B_Mask.uasset" 219
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_N.uasset" 220
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/M_Char_Ram.uasset" 221
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Ram.uasset" 222
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_D.uasset" 223
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_Mask.uasset" 224
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_N.uasset" 225
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/M_Char_Shell.uasset" 226
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Shell.uasset" 227
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_solid_D.uasset" 228
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_solid_Mask.uasset" 229
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_solid_N.uasset" 230
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/M_Char_Solid.uasset" 231
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_solid.uasset" 232
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_D.uasset" 233
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_Mask.uasset" 234
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_N.uasset" 235
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/M_Char_Standard.uasset" 236
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Standard.uasset" 237
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_BarbarousElite_D.uasset" 238
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/M_Char_Barbarous_Elite.uasset" 239
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/SK_CharM_Barbarous_Skeleton.uasset" 240
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_D_MetalMask.uasset" 241
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_Elite_D.uasset" 242
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_NaturalElite_Mask.uasset" 243
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_NaturalElite_N.uasset" 244
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Trench_D.uasset" 245
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/M_Char_Pit2.uasset" 246
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit3_D.uasset" 247
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/M_Char_Pit3.uasset" 248
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Gorge_D.uasset" 249
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_C_D.uasset" 250
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_D.uasset" 251
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_ShellB_D.uasset" 252
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_C.uasset" 253
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/M_CharM_Solid_Alternate.uasset" 254
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_Solid_Alt.uasset" 255
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_Solid_Alternate.uasset" 256
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_Solid_Alt_Mask.uasset" 257
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_Elite_D.uasset" 258
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/M_Char_Standard_Elite.uasset" 259
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Horn_D.uasset" 260
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/M_Char_Horn.uasset" 261
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Talon_D.uasset" 262
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/M_Char_Talon.uasset" 263
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_D.uasset" 264
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/M_Char_Warrior.uasset" 265
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_Emissive.uasset" 266
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 267
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 268
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 269
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 270
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 271
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 272
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 273
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 274
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 275
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Collapse01.uasset" 276
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Collapse02.uasset" 277
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Explosion01.uasset" 278
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Explosion02.uasset" 279
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire01.uasset" 280
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 281
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light01.uasset" 282
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light01_Cue.uasset" 283
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light02.uasset" 284
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light02_Cue.uasset" 285
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Smoke01.uasset" 286
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 287
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Music01.uasset" 288
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 289
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 290
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Steam01.uasset" 291
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 292
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 293
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 294
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 295
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 296
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 297
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Explosion.uasset" 298
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 299
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 300
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 301
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Bush_D.uasset" 302
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Bush_N.uasset" 303
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 304
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Bush.uasset" 305
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Chair_N.uasset" 306
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 307
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Couch.uasset" 308
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Glass.uasset" 309
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Door_M.uasset" 310
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Door_N.uasset" 311
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Door.uasset" 312
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Door.uasset" 313
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 314
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 315
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 316
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 317
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 318
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 319
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 320
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 321
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 322
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Rock.uasset" 323
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 324
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 325
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 326
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Shelf.uasset" 327
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 328
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Stairs.uasset" 329
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 330
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 331
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 332
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 333
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 334
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 335
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 336
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 337
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 338
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 339
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 340
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 341
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 342
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 343
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 344
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 345
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 346
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 347
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 348
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 349
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 350
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 351
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 352
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 353
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 354
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 355
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 356
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 357
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 358
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 359
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 360
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 361
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 362
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 363
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 364
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 365
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 366
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 367
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 368
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 369
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 370
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 371
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 372
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack09.uasset" 373
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack10.uasset" 374
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack11.uasset" 375
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12.uasset" 376
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12_End.uasset" 377
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12_Loop.uasset" 378
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12_Start.uasset" 379
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Dash01.uasset" 380
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Falldown_End.uasset" 381
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Falldown_Loop.uasset" 382
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Falldown_Start.uasset" 383
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Jump_Fall_Loop.uasset" 384
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Jump_Land.uasset" 385
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Jump_Start.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 387
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 388
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 389
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 390
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 391
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 392
-"../../../Engine/Content/BasicShapes/Cone.uasset" 393
-"../../../Engine/Content/BasicShapes/Plane.uasset" 394
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 395
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 396
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 397
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 398
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 399
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 400
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 401
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 402
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 403
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 404
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 405
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 406
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 407
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 408
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 409
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 410
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 411
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 412
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 413
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 414
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 415
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 416
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 417
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 418
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 419
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 420
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 421
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 422
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 423
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 424
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 425
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 426
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 427
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 428
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 429
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 430
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 431
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 432
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 433
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 434
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 435
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 436
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 437
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 438
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 439
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 440
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 441
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 442
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 443
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 444
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 445
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 446
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 447
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 448
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 449
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 450
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 451
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 452
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 453
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 454
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 455
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 456
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 457
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 458
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 459
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 460
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 461
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 462
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 463
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 464
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 465
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 466
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 467
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 468
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 469
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 470
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 471
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 472
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 473
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 474
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 475
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 476
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 477
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 478
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 479
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 480
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 481
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 482
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 483
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 484
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 485
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 486
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 487
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 488
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 489
-"../../../Engine/Content/EngineResources/Black.uasset" 490
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 491
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 492
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 493
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 494
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 495
-"../../../Engine/Content/EngineSounds/Master.uasset" 496
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 497
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 498
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 499
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 500
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 501
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 502
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 503
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 504
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 505
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 506
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 507
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 508
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 509
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 510
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 511
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 512
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 513
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 514
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 515
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 516
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 517
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 518
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 519
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 520
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 521
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 522
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 523
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 524
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 525
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 526
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 527
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 528
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 529
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 530
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 531
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 532
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 533
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 534
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 535
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 536
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 537
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 538
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 539
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 540
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 541
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 542
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 543
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 544
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 545
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 546
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 547
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 548
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 549
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 550
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 551
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 552
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 553
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 554
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 555
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 556
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 557
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 558
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/AI_Heavy.uasset" 559
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena01_BuiltData.uasset" 560
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 561
-"../../../Engine/Content/BasicShapes/Cube.uasset" 562
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 563
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/CubeMaterial.uasset" 564
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/1M_Cube.uasset" 565
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/TemplateFloor.uasset" 566
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 567
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 568
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 569
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 570
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena01.umap" 571
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena02_BuiltData.uasset" 572
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 573
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 574
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 575
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena02.umap" 576
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset" 577
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 578
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Lobby.umap" 579
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/MainMenu_BuiltData.uasset" 580
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/MainMenu.umap" 581
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/TravelMap.umap" 582
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 583
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 584
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 585
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 586
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 587
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 588
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 589
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 590
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 591
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 592
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 593
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 594
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 595
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 596
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 597
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 598
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 599
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 600
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 601
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 602
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 603
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 604
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 605
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 606
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 607
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 608
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 609
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 610
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 611
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 612
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 613
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Statue_M.uasset" 614
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Statue_N.uasset" 615
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 616
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 617
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 618
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Chair.uasset" 619
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 620
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Statue.uasset" 621
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 622
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 623
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 624
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_TableRound.uasset" 625
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Minimal_Default.umap" 626
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 627
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 628
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 629
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 630
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Water_N.uasset" 631
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 632
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Fire.uasset" 633
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 634
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 635
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Smoke.uasset" 636
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 637
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 638
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Sparks.uasset" 639
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 640
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 641
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 642
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 643
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 644
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 645
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 646
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 647
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 648
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 649
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 650
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 651
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 652
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 653
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 654
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 655
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 656
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 657
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 658
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 659
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 660
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 661
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 662
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 663
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 664
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 665
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 666
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 667
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 668
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 669
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 670
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 671
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 672
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 673
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 674
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 675
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 676
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 677
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 678
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 679
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 680
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 681
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 682
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 683
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 684
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 685
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 686
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 687
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 688
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 689
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 690
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 691
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 692
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 693
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 694
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 695
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 696
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 697
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 698
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 699
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 700
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 701
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 702
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 703
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 704
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 705
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 706
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 707
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 708
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 709
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 710
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 711
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 712
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 713
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 714
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 715
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 716
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 717
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 718
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 719
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 720
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 721
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 722
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 723
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 724
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 725
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 726
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 727
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 728
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 729
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 730
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 731
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 732
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 733
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 734
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 735
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 736
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 737
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 738
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 739
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 740
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 741
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 742
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Water_M.uasset" 743
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 744
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 745
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 746
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 747
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 748
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 749
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 750
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 751
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 752
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 753
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 754
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 755
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 756
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 757
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 758
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 759
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 760
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 761
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 762
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 763
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 764
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 765
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 766
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 767
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/MaterialSphere.uasset" 768
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Frame_M.uasset" 769
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Frame_N.uasset" 770
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 771
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 772
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 773
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 774
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 775
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 776
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 777
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 778
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 779
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 780
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/StarterMap.umap" 781
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 782
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 783
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack01.uasset" 784
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack02.uasset" 785
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack03.uasset" 786
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack04.uasset" 787
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack05.uasset" 788
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack06.uasset" 789
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack07.uasset" 790
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack08.uasset" 791
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Death.uasset" 792
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Back.uasset" 793
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Front.uasset" 794
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Left.uasset" 795
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Right.uasset" 796
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Idle.uasset" 797
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Idle_General.uasset" 798
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Run.uasset" 799
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Walk.uasset" 800
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 801
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 802
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 803
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 804
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 805
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 806
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 807
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 808
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 809
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 810
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 811
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 812
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 813
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 814
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 815
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 816
-"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Map/Overview.umap" 817
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 818
-"../../../Engine/Content/Maps/Entry.umap" 819
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Death.uasset" 34
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Fall_Loop.uasset" 35
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Land.uasset" 36
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Start.uasset" 37
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Idle.uasset" 38
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Run.uasset" 39
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Walk.uasset" 40
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_IdleRun_2D.uasset" 41
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSwordAnimBP.uasset" 42
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack01.uasset" 43
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/AnimNotifies/AttackNotifyWindow.uasset" 44
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack01_Montage.uasset" 45
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack02.uasset" 46
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack02_Montage.uasset" 47
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack03.uasset" 48
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack03_Montage.uasset" 49
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack04.uasset" 50
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack04_Montage.uasset" 51
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack05.uasset" 52
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack05_Montage.uasset" 53
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack06.uasset" 54
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack06_Montage.uasset" 55
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack07.uasset" 56
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack07_Montage.uasset" 57
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack08.uasset" 58
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack08_Montage.uasset" 59
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack09.uasset" 60
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack09_Montage.uasset" 61
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack11.uasset" 62
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack11_Montage.uasset" 63
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_Barbarous_D.uasset" 64
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_Barbarous_MetalMask.uasset" 65
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_Barbarous_N.uasset" 66
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/M_Char_Barbrous.uasset" 67
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.uasset" 68
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Barberous.uasset" 69
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_Natural_D.uasset" 70
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_Natural_Mask.uasset" 71
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_Natural_N.uasset" 72
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/M_Char_Natural.uasset" 73
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Natural.uasset" 74
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Natural.uasset" 75
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit_D.uasset" 76
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit_Mask.uasset" 77
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit_N.uasset" 78
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/M_Char_Pit.uasset" 79
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Pit.uasset" 80
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Pit.uasset" 81
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Robo/T_CharM_Robo_Mask.uasset" 82
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Robo/T_CharM_Robo_N.uasset" 83
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Robo/M_Char_Robo.uasset" 84
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Robo.uasset" 85
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Robo.uasset" 86
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_D.uasset" 87
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_E.uasset" 88
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_Mask.uasset" 89
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Tusk_N.uasset" 90
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/M_Char_Tusk.uasset" 91
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Tusk.uasset" 92
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Tusk.uasset" 93
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_JewelMask.uasset" 94
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_N.uasset" 95
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_WarriorB_D.uasset" 96
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_WarriorB_Mask.uasset" 97
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/M_Char_Warrior_B.uasset" 98
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Warrior.uasset" 99
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Warrior.uasset" 100
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/barberous.uasset" 101
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/forge.uasset" 102
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/frosty.uasset" 103
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/natural.uasset" 104
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/pit.uasset" 105
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/robo.uasset" 106
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/tusk.uasset" 107
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/warrior.uasset" 108
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/CharacterSelect.uasset" 109
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/ConnectedPlayer.uasset" 110
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/arena01.uasset" 111
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/arena02.uasset" 112
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/PlayerButton.uasset" 113
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/GameSettings.uasset" 114
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/Lobby/LobbyMenu.uasset" 115
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Lobby/LobbyGM.uasset" 116
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Lobby/LobbyPC.uasset" 117
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/ChatText.uasset" 118
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/ChatWindow.uasset" 119
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/GameplayChat.uasset" 120
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/EscapeMenu.uasset" 121
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/kills_img.uasset" 122
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/KillsDisplay.uasset" 123
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/timer_icon.uasset" 124
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/TimerWB.uasset" 125
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/GameOverWB.uasset" 126
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/forsty_e_img.uasset" 127
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/frosty_q_img.uasset" 128
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/PlayerHUD.uasset" 129
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/WatingForRevive.uasset" 130
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Gameplay/GameplayPC.uasset" 131
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Back.uasset" 132
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Front.uasset" 133
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Left.uasset" 134
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Right.uasset" 135
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/HitReaction_1D.uasset" 136
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/AI_BaseAnimBP.uasset" 137
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/StandardAI_BB.uasset" 138
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/AttackPawn_BTTask.uasset" 139
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/GetClosestPawn_BTTask.uasset" 140
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/IsInAttackDistance.uasset" 141
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/IsNotDead.uasset" 142
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/Tasks/TargetIsNotDead.uasset" 143
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/StandardAI_BT.uasset" 144
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/AI/AI_Controller_BP.uasset" 145
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/HitCameraShake.uasset" 146
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/EnemyHealthWB.uasset" 147
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_D.uasset" 148
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_M.uasset" 149
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_N.uasset" 150
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/M_CharM_Base.uasset" 151
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/sk_CharM_Base.uasset" 152
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/UI/AllLevels/DamageDisplay.uasset" 153
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/AI_Base.uasset" 154
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/M_NormalSwordTrail.uasset" 155
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Normal_Sword_Trail.uasset" 156
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Textures/Splatters_T.uasset" 157
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/M_Splatters.uasset" 158
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Splatters.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 160
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 161
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 162
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 163
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 164
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Wall_Hit_Sparks.uasset" 165
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Weapon/M_Defuse.uasset" 166
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Weapon/TwinSword.uasset" 167
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Gameplay/TwinSword_BP.uasset" 168
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_FrostGiant/T_Char_M_FrostGiant_N.uasset" 169
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_FrostGiant/M_Char_FrostGiant.uasset" 170
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_FrostGiant.uasset" 171
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/M_RageSwordTrail.uasset" 172
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Particles/Rage_Sword_Trail.uasset" 173
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Frosty.uasset" 174
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Gameplay/GameplayGM.uasset" 175
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/0_Base.uasset" 176
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Forge/CharM_Forge_D.uasset" 177
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Forge/CharM_Forge_N.uasset" 178
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Forge/M_Char_Forge.uasset" 179
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Forge.uasset" 180
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/Forge.uasset" 181
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack10.uasset" 182
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12.uasset" 183
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12_End.uasset" 184
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12_Loop.uasset" 185
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Attack12_Start.uasset" 186
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Combo01_Montage.uasset" 187
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Dash01.uasset" 188
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Falldown_End.uasset" 189
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Falldown_Loop.uasset" 190
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Falldown_Start.uasset" 191
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Hit_Front_Montage.uasset" 192
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Idle_General.uasset" 193
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Animations/TwinSword_Jump_Fall.uasset" 194
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_D.uasset" 195
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_MetalMask1.uasset" 196
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_N.uasset" 197
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/M_CharM_Bladed.uasset" 198
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Bladed.uasset" 199
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/Char_M_Cardboard_D.uasset" 200
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/Char_M_Cardboard_N.uasset" 201
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/Char_M_Cardboard_Skin_Mask.uasset" 202
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Cardboard/M_Char_Cardboard.uasset" 203
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Cardboard.uasset" 204
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/T_CharM_Golden_D.uasset" 205
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/T_CharM_Golden_Mask.uasset" 206
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/T_CharM_Golden_N.uasset" 207
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Golden/M_Char_Golden.uasset" 208
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Golden.uasset" 209
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_D.uasset" 210
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_Elite_Mask.uasset" 211
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_N.uasset" 212
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/M_Char_Ragged.uasset" 213
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Ragged0.uasset" 214
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/T_CharM_Ragged_Elite.uasset" 215
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ragged/M_Char_RaggedElite.uasset" 216
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_RaggedElite.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/LowResBlurredNoise.uasset" 218
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_B_D.uasset" 219
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_B_Mask.uasset" 220
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_N.uasset" 221
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/M_Char_Ram.uasset" 222
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Ram.uasset" 223
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_D.uasset" 224
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_Mask.uasset" 225
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_N.uasset" 226
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/M_Char_Shell.uasset" 227
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Shell.uasset" 228
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_solid_D.uasset" 229
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_solid_Mask.uasset" 230
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_solid_N.uasset" 231
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/M_Char_Solid.uasset" 232
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_solid.uasset" 233
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_D.uasset" 234
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_Mask.uasset" 235
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_N.uasset" 236
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/M_Char_Standard.uasset" 237
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/SK_CharM_Standard.uasset" 238
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/T_CharM_BarbarousElite_D.uasset" 239
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/M_Char_Barbarous_Elite.uasset" 240
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Barbarous/SK_CharM_Barbarous_Skeleton.uasset" 241
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Base/T_CharM_Base_D_MetalMask.uasset" 242
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Bladed/T_CharM_Bladed_Elite_D.uasset" 243
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_NaturalElite_Mask.uasset" 244
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Natural/T_CharM_NaturalElite_N.uasset" 245
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Trench_D.uasset" 246
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/M_Char_Pit2.uasset" 247
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Pit3_D.uasset" 248
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/M_Char_Pit3.uasset" 249
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Pit/T_CharM_Gorge_D.uasset" 250
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_C_D.uasset" 251
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Ram/T_CharM_Ram_D.uasset" 252
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_ShellB_D.uasset" 253
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Shell/T_CharM_Shell_C.uasset" 254
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/M_CharM_Solid_Alternate.uasset" 255
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_Solid_Alt.uasset" 256
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_Solid_Alternate.uasset" 257
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_solid/T_CharM_Solid_Alt_Mask.uasset" 258
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/T_CharM_Standard_Elite_D.uasset" 259
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Standard/M_Char_Standard_Elite.uasset" 260
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Horn_D.uasset" 261
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/M_Char_Horn.uasset" 262
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/T_CharM_Talon_D.uasset" 263
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Tusk/M_Char_Talon.uasset" 264
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_D.uasset" 265
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/M_Char_Warrior.uasset" 266
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/IBWarriors/Character/CompleteCharacters/Textures_Materials/CharM_Warrior/T_CharM_Warrior_Emissive.uasset" 267
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 268
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 269
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 270
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 271
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 272
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 273
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 274
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 275
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 276
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Collapse01.uasset" 277
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Collapse02.uasset" 278
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Explosion01.uasset" 279
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Explosion02.uasset" 280
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire01.uasset" 281
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 282
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light01.uasset" 283
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light01_Cue.uasset" 284
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light02.uasset" 285
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Light02_Cue.uasset" 286
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Smoke01.uasset" 287
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 288
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Music01.uasset" 289
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 290
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 291
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Steam01.uasset" 292
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 293
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 294
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 295
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 296
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 297
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 298
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Explosion.uasset" 299
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 300
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 301
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 302
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Bush_D.uasset" 303
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Bush_N.uasset" 304
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 305
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Bush.uasset" 306
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Chair_N.uasset" 307
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 308
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Couch.uasset" 309
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Glass.uasset" 310
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Door_M.uasset" 311
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Door_N.uasset" 312
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Door.uasset" 313
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Door.uasset" 314
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 315
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 316
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 318
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 319
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 320
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 321
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 322
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 323
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Rock.uasset" 324
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 325
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 326
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 327
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Shelf.uasset" 328
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 329
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Stairs.uasset" 330
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 331
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 332
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 333
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 334
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 335
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 336
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 337
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 338
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 339
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 340
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 341
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 342
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 343
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 344
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 345
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 346
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 347
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 348
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 349
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 350
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 351
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 352
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 353
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 354
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 355
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 356
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 357
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 358
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 359
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 360
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 361
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 362
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 363
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 364
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 365
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 366
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 367
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 368
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 369
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 370
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 371
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 372
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 373
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack09.uasset" 374
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack10.uasset" 375
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack11.uasset" 376
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12.uasset" 377
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12_End.uasset" 378
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12_Loop.uasset" 379
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack12_Start.uasset" 380
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Dash01.uasset" 381
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Falldown_End.uasset" 382
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Falldown_Loop.uasset" 383
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Falldown_Start.uasset" 384
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Jump_Fall_Loop.uasset" 385
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Jump_Land.uasset" 386
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Jump_Start.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 388
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 389
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 390
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 391
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 392
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 393
+"../../../Engine/Content/BasicShapes/Cone.uasset" 394
+"../../../Engine/Content/BasicShapes/Plane.uasset" 395
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 396
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 397
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 398
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 399
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 400
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 401
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 402
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 403
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 405
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 407
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 409
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 410
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 412
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 413
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 414
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 415
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 416
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 417
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 418
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 419
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 420
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 421
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 422
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 423
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 424
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 425
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 426
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 427
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 428
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 429
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 430
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 431
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 432
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 433
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 434
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 435
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 436
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 437
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 438
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 439
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 440
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 441
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 442
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 443
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 444
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 445
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 446
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 447
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 448
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 449
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 450
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 451
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 452
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 453
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 454
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 455
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 456
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 457
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 458
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 459
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 460
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 461
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 462
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 463
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 464
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 466
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 467
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 468
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 469
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 470
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 471
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 472
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 473
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 474
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 475
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 476
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 477
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 478
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 479
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 480
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 481
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 482
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 483
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 484
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 485
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 486
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 487
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 488
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 489
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 490
+"../../../Engine/Content/EngineResources/Black.uasset" 491
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 492
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 493
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 494
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 495
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 496
+"../../../Engine/Content/EngineSounds/Master.uasset" 497
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 498
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 499
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 500
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 501
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 502
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 503
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 504
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 505
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 506
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 507
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 508
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 509
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 510
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 511
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 512
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 513
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 514
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 515
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 516
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 517
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 518
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 519
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 520
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 521
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 522
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 523
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 524
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 525
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 526
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 527
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 528
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 529
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 530
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 531
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 532
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 533
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 534
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 535
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 536
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 537
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 538
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 539
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 540
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 541
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 542
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 543
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 544
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 545
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 546
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 547
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 548
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 549
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 550
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 551
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 552
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 553
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 554
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 555
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 556
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 557
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 558
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 559
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/AI_Heavy.uasset" 560
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Blueprints/Characters/AI_Mega.uasset" 561
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena01_BuiltData.uasset" 562
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 563
+"../../../Engine/Content/BasicShapes/Cube.uasset" 564
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 565
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/CubeMaterial.uasset" 566
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/1M_Cube.uasset" 567
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/TemplateFloor.uasset" 568
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 569
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 570
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 571
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 572
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena01.umap" 573
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena02_BuiltData.uasset" 574
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 575
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 576
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 577
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Arena02.umap" 578
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Lobby_BuiltData.uasset" 579
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 580
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/Lobby.umap" 581
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/MainMenu_BuiltData.uasset" 582
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/MainMenu.umap" 583
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/Maps/TravelMap.umap" 584
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 585
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 586
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 587
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 588
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 589
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 590
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 591
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 592
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 593
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 594
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 595
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 596
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 597
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 598
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 599
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 600
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 601
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 602
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 603
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 604
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 605
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 606
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 607
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 608
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 609
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 610
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 611
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 612
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 613
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 614
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 615
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Statue_M.uasset" 616
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Statue_N.uasset" 617
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 618
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 619
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 620
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Chair.uasset" 621
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 622
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Statue.uasset" 623
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 624
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 625
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 626
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_TableRound.uasset" 627
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/Minimal_Default.umap" 628
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 629
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 630
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 631
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 632
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Water_N.uasset" 633
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 634
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Fire.uasset" 635
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 636
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 637
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Smoke.uasset" 638
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 639
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 640
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Sparks.uasset" 641
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 642
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 643
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 644
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 645
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 646
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 647
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 648
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 649
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 650
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 651
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 652
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 653
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 654
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 655
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 656
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 657
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 658
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 659
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 660
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 661
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 662
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 663
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 664
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 665
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 666
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 667
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 668
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 669
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 670
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 671
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 672
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 673
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 674
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 675
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 676
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 677
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 678
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 679
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 680
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 681
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 682
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 683
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 684
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 685
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 686
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 687
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 688
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 689
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 690
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 691
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 692
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 693
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 694
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 695
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 696
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 697
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 698
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 699
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 700
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 701
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 702
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 703
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 704
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 705
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 706
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 707
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 708
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 709
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 710
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 711
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 712
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 713
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 714
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 715
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 716
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 717
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 718
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 719
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 720
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 721
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 722
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 723
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 724
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 725
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 726
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 727
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 728
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 729
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 730
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 731
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 732
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 733
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 734
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 735
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 736
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 737
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 738
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 739
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 740
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 741
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 742
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 743
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 744
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Water_M.uasset" 745
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 746
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 747
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 748
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 749
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 750
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 751
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 752
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 753
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 754
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 755
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 756
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 757
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 758
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 759
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 760
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 761
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 762
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 763
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 764
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 765
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 766
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 767
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 768
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 769
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/MaterialSphere.uasset" 770
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Frame_M.uasset" 771
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Textures/T_Frame_N.uasset" 772
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 773
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 774
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 775
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 776
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 777
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 778
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 779
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 780
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 781
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 782
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/StarterContent/Maps/StarterMap.umap" 783
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 784
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 785
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack01.uasset" 786
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack02.uasset" 787
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack03.uasset" 788
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack04.uasset" 789
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack05.uasset" 790
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack06.uasset" 791
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack07.uasset" 792
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Attack08.uasset" 793
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Death.uasset" 794
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Back.uasset" 795
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Front.uasset" 796
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Left.uasset" 797
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Hit_Right.uasset" 798
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Idle.uasset" 799
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Idle_General.uasset" 800
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Run.uasset" 801
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Animation/Inplace/TwinSword_Walk.uasset" 802
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 803
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 804
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 805
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 806
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 807
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 808
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 809
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 810
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 811
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 812
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 813
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 814
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 815
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 816
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 817
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 818
+"../../../../../../Users/cchelotti/Documents/UE4 Projects/SteamProject/Content/TwinSwordAnimsetBase/Map/Overview.umap" 819
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 820
+"../../../Engine/Content/Maps/Entry.umap" 821
